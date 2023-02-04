@@ -1,0 +1,50 @@
+body{background:#75c350}
+ .iogin{background:white;
+        width:300px;
+		padding:50px;
+		margin:auto;
+		margin-top:150px;
+		transition:al 5s;
+		border-radius:30px;
+      }
+	  .iogin:hover{background:green;
+	  transform:scale(0.9);
+	  }
+	  .iogin input{
+		  
+		  width:100%;
+		  display:block;
+		  padding:10px;
+		  background:#f2f2f2;
+		  margin-bottom:20px;
+		  outline:none;
+		  border:none;
+		  font-size:16px;
+		  
+		 
+	  }
+	  .submit{background:#00B242 !important;
+	  color:white;
+	  }
+	  .submit:hover{
+		  background:red;
+	  }
+	  .rejester{
+		  text-align:center;
+		  font-size:18px;
+		  }
+	  .rejester span{
+		 color: #b5b4b4;
+		  
+	  }
+	  .rejester a{
+		  color:#35BC5E;
+		  text-decoration:none;
+	  }
+	  .iogin h2{text-align:center;
+	        margin:0px;
+			margin-bottom:10px;
+			font-family:arial black;
+			text-transform:uppercase;
+			color:#444;
+	  }
